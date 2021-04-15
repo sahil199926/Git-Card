@@ -1,5 +1,5 @@
 ### `Live run`
-# https://important-tricky-thunder.glitch.me/
+# github-info-card.netlify.app
 
 
 
