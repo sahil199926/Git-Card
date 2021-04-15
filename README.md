@@ -1,5 +1,5 @@
 ### `Live run`
-# github-info-card.netlify.app
+# https://github-info-card.netlify.app/
 
 
 
